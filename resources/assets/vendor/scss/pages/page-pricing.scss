@@ -1,0 +1,87 @@
+// * Pricing
+// *******************************************************************************
+
+@use '../_bootstrap-extended/include' as light;
+@use '../_bootstrap-extended/include-dark' as dark;
+@import '../_custom-variables/pages';
+
+.pricing-plans-comparison {
+  .table {
+    tr {
+      > th:first-child,
+      > td:first-child {
+        white-space: nowrap;
+        text-align: start;
+      }
+    }
+  }
+}
+// show image only above lg size
+@include light.media-breakpoint-up(lg) {
+  .pricing-plans {
+    &:before {
+      display: block;
+      width: 100%;
+      bottom: 0;
+      height: 840px;
+      background-size: cover !important;
+      background-position: bottom !important;
+      margin-bottom: -840px;
+      content: '';
+    }
+  }
+}
+.pricing-exclusive {
+  position: absolute;
+  right: 0.75rem;
+  top: 0.75rem;
+}
+.price-yearly-toggle {
+  position: absolute;
+  margin: auto;
+  left: 0;
+  right: 0;
+}
+@if $enable-light-style {
+  .light-style {
+    .bg-alt-pricing {
+      background-color: light.$body-bg;
+    }
+    .pricing-free-trial {
+      background-color: light.rgba-to-hex(rgba(light.$primary, 0.08), light.$rgba-to-hex-bg);
+    }
+    .pricing-faqs {
+      background-color: light.rgba-to-hex(rgba(light.$black, 0.08), light.$rgba-to-hex-bg);
+    }
+    // show image only above lg size
+    @include light.media-breakpoint-up(lg) {
+      .pricing-plans {
+        &:before {
+          background: url(../../../img/illustrations/pricing-illustration-light.png) no-repeat;
+        }
+      }
+    }
+  }
+}
+
+@if $enable-dark-style {
+  .dark-style {
+    .bg-alt-pricing {
+      background-color: dark.$body-bg;
+    }
+    .pricing-free-trial {
+      background-color: dark.rgba-to-hex(rgba(dark.$primary, 0.08), dark.$card-bg);
+    }
+    .pricing-faqs {
+      background-color: dark.rgba-to-hex(rgba(dark.$gray-500, 0.08), dark.$card-bg);
+    }
+    // show image only above lg size
+    @include light.media-breakpoint-up(lg) {
+      .pricing-plans {
+        &:before {
+          background: url(../../../img/illustrations/pricing-illustration-dark.png) no-repeat;
+        }
+      }
+    }
+  }
+}
