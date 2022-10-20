@@ -57,12 +57,12 @@
           </div>
 
           <ul class="navbar-nav">
-            <!-- Demos -->
+            <!-- More -->
             <li class="hs-has-mega-menu nav-item">
-              <a id="demosMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle active" aria-current="page" href="#" role="button">Demos</a>
+              <a id="MoreMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle active" aria-current="page" href="#" role="button">More</a>
 
               <!-- Mega Menu -->
-              <div class="hs-mega-menu dropdown-menu w-100" aria-labelledby="demosMegaMenu" style="min-width: 40rem;">
+              <div class="hs-mega-menu dropdown-menu w-100" aria-labelledby="MoreMegaMenu" style="min-width: 40rem;">
                 <!-- Promo -->
                 <div class="navbar-dropdown-menu-promo">
                   <!-- Promo Item -->
@@ -298,7 +298,7 @@
               </div>
               <!-- End Mega Menu -->
             </li>
-            <!-- End Demos -->
+            <!-- End More -->
 
             <!-- Docs -->
             <li class="hs-has-mega-menu nav-item"

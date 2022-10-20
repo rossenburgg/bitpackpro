@@ -80,6 +80,7 @@ Route::get('/dashboard/ecommerce', $controller_path . '\dashboard\Ecommerce@inde
 // locale
 Route::get('lang/{locale}', $controller_path . '\language\LanguageController@swap');
 
+
 // layout
 Route::get('/layouts/collapsed-menu', $controller_path . '\layouts\CollapsedMenu@index')->name('layouts-collapsed-menu');
 Route::get('/layouts/content-navbar', $controller_path . '\layouts\ContentNavbar@index')->name('layouts-content-navbar');
@@ -251,5 +252,8 @@ Route::resource('/user-list', UserManagement::class);
 Route::get('/dashboard/buy', $controller_path . '\dashboard\buy@index')->name('buy');
 Route::get('/dashboard/sell', $controller_path . '\dashboard\sell@index')->name('sell');
 
+
+
+Route::get('/account-overview', 'AccountOverview@index')->name('account-overview');
 });
 
