@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>About | Front - Multipurpose Responsive Template</title>
+  <title>About | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -582,7 +582,7 @@
         <!-- Heading -->
         <div class="mb-5 mb-md-10">
           <h1 class="display-4">About Us</h1>
-          <p class="lead">Front is a web company that builds websites. Businesses of every size—from new startups to public companies—use our theme to build  and manage their businesses online.</p>
+          <p class="lead">BitPack is a web company that builds websites. Businesses of every size—from new startups to public companies—use our theme to build  and manage their businesses online.</p>
         </div>
         <!-- End Heading -->
       </div>
@@ -1024,7 +1024,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1315,7 +1315,7 @@
   <script src="./assets/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
   <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

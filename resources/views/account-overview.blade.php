@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Account: Profile Info | Front - Multipurpose Responsive Template</title>
+  <title>Account: Profile Info | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -20,7 +20,7 @@
   <link rel="stylesheet" href="./assets/vendor/quill/dist/quill.snow.css">
   <link rel="stylesheet" href="./assets/vendor/tom-select/dist/css/tom-select.bootstrap5.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -369,7 +369,7 @@
     <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -567,7 +567,7 @@
 
             <!-- Button -->
             <li class="nav-item">
-              <a class="btn btn-primary btn-transition" href="https://themes.getbootstrap.com/product/front-multipurpose-responsive-template/" target="_blank">Buy now</a>
+              <a class="btn btn-primary btn-transition" href="https://themes.getbootstrap.com/product/BitPack-multipurpose-responsive-template/" target="_blank">Buy now</a>
             </li>
             <!-- End Button -->
           </ul>
@@ -786,7 +786,7 @@
 
                   <!-- Form -->
                   <div class="row mb-4">
-                    <label for="firstNameLabel" class="col-sm-3 col-form-label form-label">Full name <i class="bi-question-circle text-body ms-1" data-bs-toggle="tooltip" data-bs-placement="top" title="Displayed on public forums, such as Front."></i></label>
+                    <label for="firstNameLabel" class="col-sm-3 col-form-label form-label">Full name <i class="bi-question-circle text-body ms-1" data-bs-toggle="tooltip" data-bs-placement="top" title="Displayed on public forums, such as BitPack."></i></label>
 
                     <div class="col-sm-9">
                       <div class="input-group">
@@ -1369,7 +1369,7 @@
 
               <!-- Body -->
               <div class="card-body">
-                <p class="card-text">When you delete your account, you lose access to Front account services, and we permanently delete your personal data. You can cancel the deletion for 14 days.</p>
+                <p class="card-text">When you delete your account, you lose access to BitPack account services, and we permanently delete your personal data. You can cancel the deletion for 14 days.</p>
 
                 <div class="mb-4">
                   <!-- Check -->
@@ -1562,7 +1562,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1858,7 +1858,7 @@
   <script src="./assets/vendor/quill/dist/quill.min.js"></script>
   <script src="./assets/vendor/tom-select/dist/js/tom-select.complete.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

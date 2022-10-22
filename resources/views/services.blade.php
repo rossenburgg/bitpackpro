@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Services | Front - Multipurpose Responsive Template</title>
+  <title>Services | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -371,7 +371,7 @@
     <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -752,8 +752,8 @@
           <div class="card bg-primary h-100 overflow-hidden">
             <div class="card-body">
               <div class="w-65 pe-2">
-                <h2 class="card-title text-white">Front process</h2>
-                <p class="card-text text-white">Once you are invited to Front Agency, you company will be set within days.</p>
+                <h2 class="card-title text-white">BitPack process</h2>
+                <p class="card-text text-white">Once you are invited to BitPack Agency, you company will be set within days.</p>
                 <a class="btn btn-light btn-sm btn-transition" href="#">Learn more <i class="bi-chevron-right small ms-1"></i></a>
               </div>
 
@@ -772,7 +772,7 @@
             <div class="card-body">
               <div class="w-65 pe-2">
                 <h2 class="card-title text-white">Product design</h2>
-                <p class="card-text text-white">Easy and fast adjustments of elements are possible with Front template.</p>
+                <p class="card-text text-white">Easy and fast adjustments of elements are possible with BitPack template.</p>
                 <a class="btn btn-light btn-sm btn-transition" href="#">Learn more <i class="bi-chevron-right small ms-1"></i></a>
               </div>
 
@@ -1072,7 +1072,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1363,7 +1363,7 @@
   <script src="./assets/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
   <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

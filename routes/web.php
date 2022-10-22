@@ -2,7 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\laravel_example\UserManagement;
-
+use Buki\AutoRoute\AutoRouteFacade as AutoRoute;
 
 /*
 |--------------------------------------------------------------------------
@@ -60,6 +60,19 @@ Route::get('/dev', function () {
 
 Route::get('/faq', function () {
     return view('faq');
+});
+
+Route::get('/help-desk', function () {
+    return view('help-desk.index');
+});
+
+
+Route::get('/article-overview', function () {
+    return view('help-desk.article-overview');
+});
+
+Route::get('/listing', function () {
+    return view('help-desk.listing');
 });
 
 

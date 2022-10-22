@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Error 404 | Front - Multipurpose Responsive Template</title>
+  <title>Error 404 | Front - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -41,7 +41,7 @@
     <!-- Content -->
     <div class="container text-center">
       <div class="mb-3">
-        <img class="img-fluid" src="./assets/svg/illustrations/oc-error.svg" alt="Image Description" style="width: 30rem;">
+        <img class="img-fluid" src="{{asset('assets/svg/illustrations/oc-error.svg')}}" alt="Image Description" style="width: 30rem;">
       </div>
 
       <div class="mb-4">
@@ -98,9 +98,9 @@
   <!-- ========== END FOOTER ========== -->
 
   <!-- JS Global Compulsory  -->
-  <script src="./assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{asset('assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
 
   <!-- JS Front -->
-  <script src="./assets/js/theme.min.js"></script>
+  <script src="{{asset('assets/js/theme.min.js')}}"></script>
 </body>
 </html>

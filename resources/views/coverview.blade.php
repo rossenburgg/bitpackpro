@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Careers: Overview | Front - Multipurpose Responsive Template</title>
+  <title>Careers: Overview | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -371,7 +371,7 @@
     <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -614,11 +614,11 @@
             <!-- End Title -->
 
             <div class="mb-5">
-              <p>Front is building an artificial intelligence platform to transform the modern workforce. Our Ai platform allows team members to access information and streamline processes. We are integrated with a who's who of apps including Google Drive, Box, Salesforce, Zenefits, Office 365, Tableau, DOMO and 40+ others. We support new ideas, collaboration, and the ownership of our product throughout the organization.</p>
+              <p>BitPack is building an artificial intelligence platform to transform the modern workforce. Our Ai platform allows team members to access information and streamline processes. We are integrated with a who's who of apps including Google Drive, Box, Salesforce, Zenefits, Office 365, Tableau, DOMO and 40+ others. We support new ideas, collaboration, and the ownership of our product throughout the organization.</p>
 
-              <p>Front engineers enjoy the opportunity and benefits of working at an early-stage artificial intelligence startup, but in an environment much more akin to a later stage company given the experience of the founding team. The culture at Front encourages innovation, independent problem solving, and collaboration as we continue to mature our product in the ever-changing work of AI.</p>
+              <p>BitPack engineers enjoy the opportunity and benefits of working at an early-stage artificial intelligence startup, but in an environment much more akin to a later stage company given the experience of the founding team. The culture at BitPack encourages innovation, independent problem solving, and collaboration as we continue to mature our product in the ever-changing work of AI.</p>
 
-              <p>Front is funded by the EQUITY.com incubator. As part of our dedication to the St. Louis community, Front is partnered with Create a Loop, a nonprofit focused on teaching kids computer science.</p>
+              <p>BitPack is funded by the EQUITY.com incubator. As part of our dedication to the St. Louis community, BitPack is partnered with Create a Loop, a nonprofit focused on teaching kids computer science.</p>
             </div>
 
             <div class="mb-5">
@@ -998,7 +998,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1290,7 +1290,7 @@
   <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
   <script src="./assets/vendor/hs-file-attach/dist/hs-file-attach.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

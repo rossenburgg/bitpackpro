@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Careers | Front - Multipurpose Responsive Template</title>
+  <title>Careers | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -371,7 +371,7 @@
     <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -666,7 +666,7 @@
         <!-- Heading -->
         <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
           <span class="d-block small font-weight-bold text-cap mb-2">Company values</span>
-          <h2>The Front culture</h2>
+          <h2>The BitPack culture</h2>
         </div>
         <!-- End Heading -->
 
@@ -774,7 +774,7 @@
         <div class="row">
           <div class="col-lg-6">
             <div class="pe-lg-4">
-              <p>Front is an independent, profitable organisation creating premium thmes to power the future of websites. No matter where you look, the world has never needed real media serving real communities as much as it does today.</p>
+              <p>BitPack is an independent, profitable organisation creating premium thmes to power the future of websites. No matter where you look, the world has never needed real media serving real communities as much as it does today.</p>
 
               <p>Because we're a fully-remote team — we hire people from all over the world!</p>
             </div>
@@ -1161,7 +1161,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1453,7 +1453,7 @@
   <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
   <script src="./assets/vendor/hs-video-player/dist/hs-video-player.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

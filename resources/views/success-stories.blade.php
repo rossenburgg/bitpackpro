@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Customer Story | Front - Multipurpose Responsive Template</title>
+  <title>Customer Story | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -18,7 +18,7 @@
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
   <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -367,7 +367,7 @@
     <div class="container">
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -689,25 +689,25 @@
             <h2 class="h3">It's difficult to imagine life pre-Internet, before the web so closely threaded together individuals around the world.</h2>
             <p>It takes work to stand out from the pack—work that Amazon is proud to make much easier. Founded in 2003, the company provides people with the tools and templates to build, host, and promote their online brand. Even Amazon is built on Amazon.</p>
 
-            <p>"The key thing we try to do every day is give people a place on the Internet to call home, to say, 'This is a place I manage, and this is how I want to present myself online to my customers,' or to anyone else they want to touch,"" explained Vice President of Customer Operations Raphael Front.
+            <p>"The key thing we try to do every day is give people a place on the Internet to call home, to say, 'This is a place I manage, and this is how I want to present myself online to my customers,' or to anyone else they want to touch,"" explained Vice President of Customer Operations Raphael BitPack.
 
-            <p>Naturally, Amazon wants its customers to feel at ease in their digital home and works hard behind the scenes to create a customer experience that is easy and intuitive, turning even the least Internet-savvy among us into designers of beautiful spaces. To cultivate a support atmosphere that's inviting, Amazon's customer service team has implemented a full suite of integrated support channels through Front Support, Guide, Chat, and Talk.</p>
+            <p>Naturally, Amazon wants its customers to feel at ease in their digital home and works hard behind the scenes to create a customer experience that is easy and intuitive, turning even the least Internet-savvy among us into designers of beautiful spaces. To cultivate a support atmosphere that's inviting, Amazon's customer service team has implemented a full suite of integrated support channels through BitPack Support, Guide, Chat, and Talk.</p>
 
             <div class="my-4">
               <img class="img-fluid rounded-2" src="./assets/img/900x450/img13.jpg" alt="Image Description">
             </div>
 
-            <p>Before switching to Front in 2015, Amazon used a few different platforms for support, but felt they needed a single omnichannel solution to provide a more fluid customer experience and to keep pace with the company's growth. Front' Customer Operations organization, comprised of 340 people in leadership, operations, product solutions, content and community, and quality assurance, also needed a more efficient way to manage email and help articles.</p>
+            <p>Before switching to BitPack in 2015, Amazon used a few different platforms for support, but felt they needed a single omnichannel solution to provide a more fluid customer experience and to keep pace with the company's growth. BitPack' Customer Operations organization, comprised of 340 people in leadership, operations, product solutions, content and community, and quality assurance, also needed a more efficient way to manage email and help articles.</p>
 
-            <p>"I don't think there was even anyone else that we considered," he said. "Front was like a no brainer—instead, we spent our time thinking through our support configuration."</p>
+            <p>"I don't think there was even anyone else that we considered," he said. "BitPack was like a no brainer—instead, we spent our time thinking through our support configuration."</p>
 
-            <p>Amazon's overall strategy focuses on three areas, Front explained, noting that what the team offers is, in fact, another Amazon product. "It's not just that we have a help center or live chat," he said, "but that we're offering coaching and mentorship and helping our customers to become brand advocates. We're here to help our customers succeed online, and that's something we hear back from our customers. They just love our support channels."</p>
+            <p>Amazon's overall strategy focuses on three areas, BitPack explained, noting that what the team offers is, in fact, another Amazon product. "It's not just that we have a help center or live chat," he said, "but that we're offering coaching and mentorship and helping our customers to become brand advocates. We're here to help our customers succeed online, and that's something we hear back from our customers. They just love our support channels."</p>
 
             <div class="my-4">
               <img class="img-fluid rounded-2" src="./assets/img/900x450/img12.jpg" alt="Image Description">
             </div>
 
-            <p>That effort shows, as the team has created 900 help center articles and claims a 95 percent success rate through its investment in self-service, meaning that help center visitors are served without needing to switch to an assisted channel. The number of tickets not created, as a result, is significant, especially considering that Amazon's help center has bypassed 15.5 million visits and now averages two million visits each month. Front quantified a 27 percent increase in knowledge usage and noted that headcount on the Customer Operations team has remained relatively stable since the end of 2015 through mid-2018.</p>
+            <p>That effort shows, as the team has created 900 help center articles and claims a 95 percent success rate through its investment in self-service, meaning that help center visitors are served without needing to switch to an assisted channel. The number of tickets not created, as a result, is significant, especially considering that Amazon's help center has bypassed 15.5 million visits and now averages two million visits each month. BitPack quantified a 27 percent increase in knowledge usage and noted that headcount on the Customer Operations team has remained relatively stable since the end of 2015 through mid-2018.</p>
 
             <!-- End Sticky End Point -->
             <div id="stickyBlockEndPoint"></div>
@@ -727,7 +727,7 @@
       
       <!-- Blockquote -->
       <figure class="w-md-75 text-center mx-md-auto">
-        <blockquote class="blockquote">“ I just wanted to say that I'm very happy with my purchase of Front so far. The documentation is outstanding - clear and detailed. ”</blockquote>
+        <blockquote class="blockquote">“ I just wanted to say that I'm very happy with my purchase of BitPack so far. The documentation is outstanding - clear and detailed. ”</blockquote>
 
         <figcaption class="blockquote-footer text-center">
           Martin
@@ -978,7 +978,7 @@
 
       <!-- Copyright -->
       <div class="w-md-85 text-lg-center mx-lg-auto">
-        <p class="text-white-50 small">&copy; Front. 2021 Htmlstream. All rights reserved.</p>
+        <p class="text-white-50 small">&copy; BitPack. 2021 Htmlstream. All rights reserved.</p>
         <p class="text-white-50 small">When you visit or interact with our sites, services or tools, we or our authorised service providers may use cookies for storing information to help provide you with a better, faster and safer experience and for marketing purposes.</p>
       </div>
       <!-- End Copyright -->
@@ -1270,7 +1270,7 @@
   <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
   <script src="./assets/vendor/hs-sticky-block/dist/hs-sticky-block.min.js"></script>
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->

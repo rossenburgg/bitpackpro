@@ -87,7 +87,7 @@
 
                         <div class="flex-grow-1 ms-3">
                           <span class="navbar-dropdown-menu-media-title">Main</span>
-                          <p class="navbar-dropdown-menu-media-desc">Over 60 corporate, agency, portfolio, account and many more pages.</p>
+                          <p class="navbar-dropdown-menu-media-desc">BitPack, a cryptocurrency trading platform</p>
                         </div>
                       </div>
                     </a>
@@ -111,7 +111,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">Real Estate</span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric Real Estate</span>
                           <p class="navbar-dropdown-menu-media-desc">Find the latest homes for sale, real estate market data.</p>
                         </div>
                       </div>
@@ -136,7 +136,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">Jobs <span class="badge bg-success rounded-pill ms-1">Hot</span></span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric Jobs <span class="badge bg-success rounded-pill ms-1">Hot</span></span>
                           <p class="navbar-dropdown-menu-media-desc">Search millions of jobs online to find the next step in your career.</p>
                         </div>
                       </div>
@@ -171,7 +171,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">Course <span class="badge bg-success rounded-pill ms-1">Hot</span></span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric Course <span class="badge bg-success rounded-pill ms-1">Hot</span></span>
                           <p class="navbar-dropdown-menu-media-desc">Learn on your schedule. An online learning and teaching demo.</p>
                         </div>
                       </div>
@@ -196,7 +196,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">E-Commerce</span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric E-Commerce</span>
                           <p class="navbar-dropdown-menu-media-desc">Choose an online store &amp; get your business online today!</p>
                         </div>
                       </div>
@@ -227,7 +227,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">App Marketplace</span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric App Store</span>
                           <p class="navbar-dropdown-menu-media-desc">Find apps and integrates seamlessly with popular apps.</p>
                         </div>
                       </div>
@@ -243,7 +243,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-help-desk/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="help-desk">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -256,7 +256,7 @@
                         </div>
 
                         <div class="flex-grow-1 ms-3">
-                          <span class="navbar-dropdown-menu-media-title">Help Desk</span>
+                          <span class="navbar-dropdown-menu-media-title">Alaric Help Desk</span>
                           <p class="navbar-dropdown-menu-media-desc">A customer service demo that helps you balance customer needs.</p>
                         </div>
                       </div>
@@ -478,7 +478,7 @@
 
               <!-- Account -->
               <li class="hs-has-sub-menu nav-item">
-                <a id="accountMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Account</a>
+                <a id="accountMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">NFTs</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-sub-menu dropdown-menu" aria-labelledby="accountMegaMenu" style="min-width: 14rem;">
@@ -489,13 +489,13 @@
                     <div class="hs-sub-menu dropdown-menu" aria-labelledby="authenticationMegaMenu" style="min-width: 14rem;">
                       <a class="dropdown-item" href="#">Here</a>
                       <div class="dropdown-divider"></div>
-                      <a class="dropdown-item " href="./page-login.html">Login</a>
-                      <a class="dropdown-item " href="./page-signup.html">Signup</a>
-                      <a class="dropdown-item " href="./page-reset-password.html">Reset Password</a>
+                      <a class="dropdown-item " href="#">Login</a>
+                      <a class="dropdown-item " href=".#">Signup</a>
+                      <a class="dropdown-item " href="#">Reset Password</a>
                       <div class="dropdown-divider"></div>
-                      <a class="dropdown-item " href="./page-login-simple.html">Login Simple</a>
-                      <a class="dropdown-item " href="./page-signup-simple.html">Signup Simple</a>
-                      <a class="dropdown-item " href="./page-reset-password-simple.html">Reset Password Simple</a>
+                      <a class="dropdown-item " href="#">Login Simple</a>
+                      <a class="dropdown-item " href="#">Signup Simple</a>
+                      <a class="dropdown-item " href="#">Reset Password Simple</a>
                     </div>
                   </div>
                   <!-- End Authentication -->
@@ -547,14 +547,13 @@
 
               <!-- Portfolio -->
               <li class="hs-has-sub-menu nav-item">
-                <a id="portfolioMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Portfolio</a>
+                <a id="portfolioMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Learn</a>
 
                 <!-- Mega Menu -->
                 <div class="hs-sub-menu dropdown-menu" aria-labelledby="portfolioMegaMenu" style="min-width: 14rem;">
-                  <a class="dropdown-item " href="./portfolio-grid.html">Grid</a>
-                  <a class="dropdown-item " href="./portfolio-product-article.html">Product Article</a>
-                  <a class="dropdown-item " href="./portfolio-case-studies-branding.html">Case Studies: Branding</a>
-                  <a class="dropdown-item " href="./portfolio-case-studies-product.html">Case Studies: Product</a>
+                  <a class="dropdown-item " href="./portfolio-case-studies-branding.html">Getting Started</a>
+                  <a class="dropdown-item " href="./portfolio-case-studies-product.html">Learn the basics</a>
+                  <a class="dropdown-item " href="./portfolio-case-studies-product.html">How do I buy crypto?</a>
                 </div>
                 <!-- End Mega Menu -->
               </li>
@@ -622,7 +621,7 @@
                     <span class="device-browser-header-btn-list-btn"></span>
                     <span class="device-browser-header-btn-list-btn"></span>
                   </div>
-                  <div class="device-browser-header-browser-bar">www.htmlstream.com/BitPack/</div>
+                  <div class="device-browser-header-browser-bar">www.bitpackgh.com</div>
                 </div>
 
                 <div class="device-browser-frame">

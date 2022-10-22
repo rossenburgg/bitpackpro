@@ -6,20 +6,20 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Customer Stories | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
+  <title>Help Desk: Article Overview | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
-  <link rel="shortcut icon" href="./favicon.ico">
+  <link rel="shortcut icon" href="../favicon.ico">
 
   <!-- Font -->
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
   <!-- CSS Implementing Plugins -->
-  <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
-  <link rel="stylesheet" href="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
+  <link rel="stylesheet" href="../assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="../assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.css">
 
   <!-- CSS BitPack Template -->
-  <link rel="stylesheet" href="./assets/css/theme.min.css">
+  <link rel="stylesheet" href="../assets/css/theme.min.css">
 </head>
 
 <body>
@@ -30,7 +30,7 @@
       <nav class="js-mega-menu navbar-nav-wrap">
         <!-- Toggler -->
         <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="collapse" data-bs-target="#topbarNavDropdown" aria-controls="topbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-          <span class="d-flex justify-content-between align-items-center small">
+          <span class="d-flex justify-content-between align-items-center">
             <span class="navbar-toggler-text">Topbar</span>
 
             <span class="navbar-toggler-default">
@@ -55,11 +55,15 @@
               <!-- End Toggler -->
             </div>
           </div>
-
+      
           <ul class="navbar-nav">
+            <li class="nav-item me-auto">
+              <a class="nav-link" href="/"><i class="bi-chevron-left small ms-1"></i> Back</a>
+            </li>
+        
             <!-- More -->
             <li class="hs-has-mega-menu nav-item">
-              <a id="MoreMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle active" aria-current="page" href="#" role="button">More</a>
+              <a id="MoreMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle active" aria-current="page" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">More</a>
 
               <!-- Mega Menu -->
               <div class="hs-mega-menu dropdown-menu w-100" aria-labelledby="MoreMegaMenu" style="min-width: 40rem;">
@@ -68,7 +72,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link active" href="./index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../landing-classic-corporate.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -93,7 +97,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-real-estate/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../demo-real-estate/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -118,7 +122,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-jobs/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../demo-jobs/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -147,7 +151,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-course/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../demo-course/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -178,7 +182,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-shop/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../demo-shop/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -203,7 +207,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-app-marketplace/index.html">
+                    <a class="navbar-dropdown-menu-promo-link " href="../demo-app-marketplace/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -238,7 +242,7 @@
                   <!-- Promo Item -->
                   <div class="navbar-dropdown-menu-promo-item">
                     <!-- Promo Link -->
-                    <a class="navbar-dropdown-menu-promo-link " href="./demo-help-desk/index.html">
+                    <a class="navbar-dropdown-menu-promo-link active" href="../demo-help-desk/index.html">
                       <div class="d-flex">
                         <div class="flex-shrink-0">
                           <span class="svg-icon svg-icon-sm text-primary">
@@ -307,12 +311,12 @@
                     "maxWidth": "20rem"
                   }
                 }'>
-              <a id="docsMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button">Docs</a>
+              <a id="docsMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Docs</a>
 
               <!-- Mega Menu -->
               <div class="hs-mega-menu hs-position-right dropdown-menu" aria-labelledby="docsMegaMenu" style="min-width: 20rem;">
                 <!-- Link -->
-                <a class="navbar-dropdown-menu-media-link" href="./documentation/index.html">
+                <a class="navbar-dropdown-menu-media-link" href="../documentation/index.html">
                   <div class="d-flex">
                     <div class="flex-shrink-0">
                       <span class="svg-icon svg-icon-sm text-primary">
@@ -335,7 +339,7 @@
                 <div class="dropdown-divider"></div>
 
                 <!-- Link -->
-                <a class="navbar-dropdown-menu-media-link" href="./snippets/index.html">
+                <a class="navbar-dropdown-menu-media-link" href="../snippets/index.html">
                   <div class="d-flex">
                     <div class="flex-shrink-0">
                       <span class="svg-icon svg-icon-sm text-primary">
@@ -365,10 +369,10 @@
     <!-- End Topbar -->
 
     <div class="container">
-      <nav class="js-mega-menu navbar-nav-wrap">
+      <nav class="navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
-          <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
+        <a class="navbar-brand" href="../demo-help-desk/index.html" aria-label="BitPack">
+          <img class="navbar-brand-logo" src="../assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
 
@@ -386,181 +390,19 @@
         <!-- Collapse -->
         <div class="collapse navbar-collapse" id="navbarNavDropdown">
           <ul class="navbar-nav">
-            <!-- Landings -->
-            <li class="hs-has-mega-menu nav-item">
-              <a id="landingsMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " aria-current="page" href="#" role="button" aria-expanded="false">Landings</a>
-
-              <!-- Mega Menu -->
-              <div class="hs-mega-menu dropdown-menu w-100" aria-labelledby="landingsMegaMenu" style="min-width: 30rem;">
-                <div class="row">
-                  <div class="col-lg-6 d-none d-lg-block">
-                    <!-- Banner Image -->
-                    <div class="navbar-dropdown-menu-banner" style="background-image: url(./assets/svg/components/shape-3.svg);">
-                      <div class="navbar-dropdown-menu-banner-content">
-                        <div class="mb-4">
-                          <span class="h2 d-block">Branding Works</span>
-                          <p>Experience a level of our quality in both design &amp; customization works.</p>
-                        </div>
-                        <a class="btn btn-primary btn-transition" href="#">Learn more <i class="bi-chevron-right small"></i></a>
-                      </div>
-                    </div>
-                    <!-- End Banner Image -->
-                  </div>
-                  <!-- End Col -->
-
-                  <div class="col-lg-6">
-                    <div class="navbar-dropdown-menu-inner">
-                      <div class="row">
-                        <div class="col-sm mb-3 mb-sm-0">
-                          <span class="dropdown-header">Classic</span>
-                          <a class="dropdown-item " href="./landing-classic-corporate.html">Corporate</a>
-                          <a class="dropdown-item " href="./landing-classic-analytics.html">Analytics <span class="badge bg-primary rounded-pill ms-1">Hot</span></a>
-                          <a class="dropdown-item " href="./landing-classic-studio.html">Studio</a>
-                          <a class="dropdown-item " href="./landing-classic-marketing.html">Marketing</a>
-                          <a class="dropdown-item " href="./landing-classic-advertisement.html">Advertisement</a>
-                          <a class="dropdown-item " href="./landing-classic-consulting.html">Consulting</a>
-                          <a class="dropdown-item " href="./landing-classic-portfolio.html">Portfolio</a>
-                          <a class="dropdown-item " href="./landing-classic-software.html">Software</a>
-                          <a class="dropdown-item " href="./landing-classic-business.html">Business</a>
-                        </div>
-                        <!-- End Col -->
-
-                        <div class="col-sm">
-                          <div class="mb-3">
-                            <span class="dropdown-header">App</span>
-                            <a class="dropdown-item " href="./landing-app-ui-kit.html">UI Kit</a>
-                            <a class="dropdown-item " href="./landing-app-saas.html">SaaS</a>
-                            <a class="dropdown-item " href="./landing-app-workflow.html">Workflow</a>
-                            <a class="dropdown-item " href="./landing-app-payment.html">Payment</a>
-                            <a class="dropdown-item " href="./landing-app-tool.html">Tool</a>
-                          </div>
-
-                          <span class="dropdown-header">Onepage</span>
-                          <a class="dropdown-item " href="./landing-onepage-corporate.html">Corporate</a>
-                          <a class="dropdown-item " href="./landing-onepage-saas.html">SaaS <span class="badge bg-primary rounded-pill ms-1">Hot</span></a>
-                        </div>
-                        <!-- End Col -->
-                      </div>
-                      <!-- End Row -->
-                    </div>
-                  </div>
-                  <!-- End Col -->
-                </div>
-                <!-- End Row -->
-              </div>
-              <!-- End Mega Menu -->
+            <li class="nav-item">
+              <a class="nav-link " href="help-desk">Help Page</a>
             </li>
-            <!-- End Landings -->
-
-             <!-- Company -->
-             <li class="hs-has-sub-menu nav-item">
-                <a id="companyMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Company</a>
-
-                <!-- Mega Menu -->
-                <div class="hs-sub-menu dropdown-menu" aria-labelledby="companyMegaMenu" style="min-width: 14rem;">
-                  <a class="dropdown-item " href="about">About</a>
-                  <a class="dropdown-item " href="services">Services</a>
-                  <a class="dropdown-item active" href="customer-stories">Customer Stories</a>
-                  <a class="dropdown-item " href="success-stories">Success Story</a>
-                  <a class="dropdown-item " href="careers">Careers</a>
-                  <a class="dropdown-item " href="careers-overview">Careers Overview</a>
-                  <a class="dropdown-item " href="dev">Hire Us</a>
-                </div>
-                <!-- End Mega Menu -->
-              </li>
-              <!-- End Company -->
-
-              <!-- Account -->
-              <li class="hs-has-sub-menu nav-item">
-                <a id="accountMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Account</a>
-
-                <!-- Mega Menu -->
-                <div class="hs-sub-menu dropdown-menu" aria-labelledby="accountMegaMenu" style="min-width: 14rem;">
-                  <!-- Authentication -->
-                  <div class="hs-has-sub-menu nav-item">
-                    <a id="authenticationMegaMenu" class="hs-mega-menu-invoker dropdown-item dropdown-toggle " href="#" role="button" aria-expanded="false">Authentication</a>
-
-                    <div class="hs-sub-menu dropdown-menu" aria-labelledby="authenticationMegaMenu" style="min-width: 14rem;">
-                      <a class="dropdown-item" href="#">Here</a>
-                      <div class="dropdown-divider"></div>
-                      <a class="dropdown-item " href="./page-login.html">Login</a>
-                      <a class="dropdown-item " href="./page-signup.html">Signup</a>
-                      <a class="dropdown-item " href="./page-reset-password.html">Reset Password</a>
-                      <div class="dropdown-divider"></div>
-                      <a class="dropdown-item " href="./page-login-simple.html">Login Simple</a>
-                      <a class="dropdown-item " href="./page-signup-simple.html">Signup Simple</a>
-                      <a class="dropdown-item " href="./page-reset-password-simple.html">Reset Password Simple</a>
-                    </div>
-                  </div>
-                  <!-- End Authentication -->
-    
-                  <a class="dropdown-item " href="./account-overview.html">Personal Info</a>
-                  <a class="dropdown-item " href="./account-security.html">Security</a>
-                  <a class="dropdown-item " href="./account-notifications.html">Notifications</a>
-                  <a class="dropdown-item " href="./account-preferences.html">Preferences</a>
-                  <a class="dropdown-item " href="./account-orders.html">Orders</a>
-                  <a class="dropdown-item " href="./account-wishlist.html">Wishlist</a>
-                  <a class="dropdown-item " href="./account-payments.html">Payments</a>
-                  <a class="dropdown-item " href="./account-address.html">Address</a>
-                  <a class="dropdown-item " href="./account-teams.html">Teams</a>
-                </div>
-                <!-- End Mega Menu -->
-              </li>
-              <!-- End Account -->
-
-              <!-- Pages -->
-              <li class="hs-has-sub-menu nav-item">
-                <a id="pagesMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Help Center</a>
-
-                <!-- Mega Menu -->
-                <div class="hs-sub-menu dropdown-menu" aria-labelledby="pagesMegaMenu" style="min-width: 14rem;">
-                  <a class="dropdown-item " href="faq">FAQ</a>
-                  <a class="dropdown-item " href="page-status">Status</a>
-                 
-                </div>
-                <!-- End Mega Menu -->
-              </li>
-              <!-- End Pages -->
-
-              <!-- Blog -->
-              <li class="hs-has-sub-menu nav-item">
-                <a id="blogMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Blog</a>
-
-                <!-- Mega Menu -->
-                <div class="hs-sub-menu dropdown-menu" aria-labelledby="blogMegaMenu" style="min-width: 14rem;">
-                  <a class="dropdown-item " href="./blog-journal.html">Journal</a>
-                  <a class="dropdown-item " href="./blog-metro.html">Metro</a>
-                  <a class="dropdown-item " href="./blog-newsroom.html">Newsroom</a>
-                  <div class="dropdown-divider"></div>
-                  <a class="dropdown-item " href="./blog-article.html">Article</a>
-                  <a class="dropdown-item " href="./blog-author-profile.html">Author Profile</a>
-                </div>
-                <!-- End Mega Menu -->
-              </li>
-              <!-- End Blog -->
-
-              <!-- Portfolio -->
-              <li class="hs-has-sub-menu nav-item">
-                <a id="portfolioMegaMenu" class="hs-mega-menu-invoker nav-link dropdown-toggle " href="#" role="button" aria-expanded="false">Portfolio</a>
-
-                <!-- Mega Menu -->
-                <div class="hs-sub-menu dropdown-menu" aria-labelledby="portfolioMegaMenu" style="min-width: 14rem;">
-                  <a class="dropdown-item " href="./portfolio-grid.html">Grid</a>
-                  <a class="dropdown-item " href="./portfolio-product-article.html">Product Article</a>
-                  <a class="dropdown-item " href="./portfolio-case-studies-branding.html">Case Studies: Branding</a>
-                  <a class="dropdown-item " href="./portfolio-case-studies-product.html">Case Studies: Product</a>
-                </div>
-                <!-- End Mega Menu -->
-              </li>
-              <!-- End Portfolio -->
-
-              <!-- Button -->
-              <li class="nav-item">
-                <a class="btn btn-primary btn-transition" href="{{ route('register') }}" >Create an account</a>
-              </li>
-              <!-- End Button -->
-            </ul>
-          </div>
+            <li class="nav-item">
+              <a class="nav-link " href="listing">Listing</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link active" href="article-overview">Article Overview</a>
+            </li>
+            <li class="nav-item">
+              <button class="btn btn-primary btn-transition" type="button" data-bs-toggle="modal" data-bs-target="#loginModal">Log in</button>
+            </li>
+          </ul>
         </div>
         <!-- End Collapse -->
       </nav>
@@ -571,276 +413,132 @@
 
   <!-- ========== MAIN CONTENT ========== -->
   <main id="content" role="main">
-    <!-- Hero -->
-    <div class="position-relative bg-img-start" style="background-image: url(./assets/img/1920x1080/img6.jpg);">
-      <div class="container content-space-t-2 content-space-t-md-3 content-space-3 content-space-b-lg-5">
-        <div class="w-lg-50">
-          <h1>You're in good company.</h1>
-          <h2 class="h1 text-primary">Join millions of businesses on BitPack.</h2>
-        </div>
-      </div>
-
-      <!-- Shape -->
-      <div class="shape shape-bottom zi-1" style="margin-bottom: -.125rem">
-        <svg xmlns="http://www.w3.org/2000/svg" x="0px" y="0px" viewBox="0 0 1920 100.1">
-          <path fill="#fff" d="M0,0c0,0,934.4,93.4,1920,0v100.1H0L0,0z"></path>
-        </svg>
-      </div>
-      <!-- End Shape -->
-    </div>
-    <!-- End Hero -->
-
-    <!-- Clients -->
-    <div class="container position-relative zi-2">
-      <div class="row justify-content-center mt-n5">
-        <div class="col-3 col-lg-2 d-none d-sm-inline-block mt-n10">
-          <!-- Logo -->
-          <div class="avatar avatar-xl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/behance-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
-        </div>
-
-        <div class="col-lg-2 d-none d-lg-inline-block mt-lg-n8">
-          <!-- Logo -->
-          <div class="avatar avatar-xxl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/google-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
-        </div>
-
-        <div class="col-3 col-lg-2 d-none d-sm-inline-block mt-n4">
-          <!-- Logo -->
-          <div class="avatar avatar-xl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/asana-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
-        </div>
-
-        <div class="col-3 col-lg-2 d-none d-sm-inline-block mt-n7">
-          <!-- Logo -->
-          <div class="avatar avatar-xl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/slack-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
-        </div>
-
-        <div class="col-lg-2 d-none d-lg-inline-block mt-lg-n10">
-          <!-- Logo -->
-          <div class="avatar avatar-xxl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/dropbox-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
-        </div>
-
-        <div class="col-3 col-lg-2 d-none d-sm-inline-block">
-          <!-- Logo -->
-          <div class="avatar avatar-xl avatar-circle shadow-sm p-4 mx-auto">
-            <img class="avatar-img" src="./assets/svg/brands/spotify-icon.svg" alt="Image Description">
-          </div>
-          <!-- End Logo -->
+    <!-- Search -->
+    <div class="bg-dark" style="background-image: url(../assets/svg/components/wave-pattern-light.svg);">
+      <div class="container py-4">
+        <div class="w-lg-75 mx-lg-auto">
+          <form>
+            <!-- Input Card -->
+            <div class="input-card">
+              <div class="input-card-form">
+                <div class="input-group input-group-merge">
+                  <label for="searchAnswersForm" class="form-label visually-hidden">Search for answers</label>
+                  <span class="input-group-prepend input-group-text">
+                    <i class="bi-search"></i>
+                  </span>
+                  <input type="text" class="form-control" id="searchAnswersForm" placeholder="Search for answers" aria-label="Search for answers">
+                </div>
+              </div>
+              <button type="button" class="btn btn-primary">
+                <i class="bi-arrow-right"></i>
+              </button>
+            </div>
+            <!-- End Input Card -->
+          </form>
         </div>
       </div>
     </div>
-    <!-- End Clients -->
+    <!-- End Search -->
 
-    <!-- Card Grid -->
-    <div class="container content-space-2 content-space-lg-3">
-      <!-- Heading -->
-      <div class="w-md-75 w-lg-50 text-center mx-md-auto mb-5 mb-md-9">
-        <span class="text-cap">Success stories</span>
-        <h2>See how BitPack is helping teams get organized and work smarter</h2>
-      </div>
-      <!-- End Heading -->
-
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 mb-5">
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img13.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/amazon.svg" alt="Logo">
-              </div>
-              <p class="card-text">Amazon launched their enterprise platform and built a powerful user experience.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img17.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/mapbox.svg" alt="Logo">
-              </div>
-              <p class="card-text">Mapbox empowers marketers to create digital marketing dashboards easily and share them with their team.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img16.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/forbes.svg" alt="Logo">
-              </div>
-              <p class="card-text">Netflix's mission is to create a planet run by the sun. In order to achieve this goal, they needed to find a way to make solar simple.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img15.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/google.svg" alt="Logo">
-              </div>
-              <p class="card-text">Google is an innovator in public safety technology. First-to-market with TASER conducted energy weapons (CEWs).</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img14.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/business-insider.svg" alt="Logo">
-              </div>
-              <p class="card-text">BitPack Projects has proved to be most efficient cloud based project tracking and bug tracking tool.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img27.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/hubspot.svg" alt="Logo">
-              </div>
-              <p class="card-text">Visitors can build a form or survey before signing up, but in order to save and share it, they need to create an account.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img12.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/fitbit.svg" alt="Logo">
-              </div>
-              <p class="card-text">Google is an innovator in public safety technology. First-to-market with TASER conducted energy weapons (CEWs).</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img7.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/airbnb.svg" alt="Logo">
-              </div>
-              <p class="card-text">BitPack Projects has proved to be most efficient cloud based project tracking and bug tracking tool.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-
-        <div class="col mb-5">
-          <!-- Card -->
-          <div class="card h-100">
-            <img class="card-img-top" src="./assets/img/480x320/img6.jpg" alt="Image Description">
-            
-            <div class="card-body">
-              <div class="mb-3">
-                <img class="avatar avatar-lg avatar-4x3" src="./assets/svg/brands/shopify.svg" alt="Logo">
-              </div>
-              <p class="card-text">BitPack Projects has proved to be most efficient cloud based project tracking and bug tracking tool.</p>
-            </div>
-            
-            <div class="card-footer pt-0">
-              <a class="card-link" href="./page-customer-story.html">Read story <i class="bi-chevron-right small ms-1"></i></a>
-            </div>
-          </div>
-          <!-- End Card -->
-        </div>
-        <!-- End Col -->
-      </div>
-      <!-- End Row -->
-
-      <div class="text-center">
-        <a class="btn btn-outline-primary" href="#">View all stories</a>
+    <!-- Breadcrumb -->
+    <div class="container py-5">
+      <div class="w-lg-75 mx-lg-auto">
+        <!-- Breadcrumb -->
+        <nav aria-label="breadcrumb">
+          <ol class="breadcrumb mb-0">
+            <li class="breadcrumb-item">
+              <a href="../demo-help-desk/index.html">BitPack Help Center</a>
+            </li>
+            <li class="breadcrumb-item">
+              <a href="../demo-help-desk/listing.html">Getting Started</a>
+            </li>
+            <li class="breadcrumb-item active" aria-current="page">What's BitPack?</li>
+          </ol>
+        </nav>
+        <!-- End Breadcrumb -->
       </div>
     </div>
-    <!-- End Card Grid -->
+    <!-- End Breadcrumb -->
+
+    <!-- Card -->
+    <div class="container content-space-b-2">
+      <div class="w-lg-75 mx-lg-auto">
+        <!-- Card -->
+        <div class="card card-bordered p-4 p-md-7">
+          <h1 class="card-title h2">What's BitPack?</h1>
+          <p class="card-text">How BitPack works, what it can do for your business and what makes it different to other solutions.</p>
+
+          <!-- Media -->
+          <div class="d-flex mb-5">
+            <div class="flex-shrink-0">
+              <img class="avatar avatar-sm avatar-circle" src="../assets/img/160x160/img9.jpg" alt="Image Description">
+            </div>
+
+            <div class="flex-grow-1 ms-3">
+              <p class="card-text text-dark small mb-0">1 article in this collection</p>
+              <p class="card-text text-dark small">
+                <span class="text-muted">Written by</span>
+                Luisa Woodfine
+                <span class="text-muted">and</span>
+                Neil Galavan
+              </p>
+            </div>
+          </div>
+          <!-- End Media -->
+
+          <p>BitPack is an incredibly beautiful, fully responsive, and mobile-first projects on the web – it is the perfect starting point for any creative and professional sites. Get started with BitPack's components and options for laying out your BitPack project, including SVG components, powerful scripts, fully detailed documentation, and yet developer friendly code.</p>
+
+          <h3>Free updates and support</h3>
+          <p>We would like to draw your attention to the fact that after purchasing a BitPack Template copy, you get the right for a <span class="fw-semibold">lifetime</span> entitlement to download updates for <span class="fw-semibold">FREE!</span> Need help? For any questions or concerns, reach us out at <a class="link" href="mailto:hello@example.com">hello@example.com</a>.</p>
+
+          <ul class="list-py-1">
+            <li><span class="fw-semibold">Free updates:</span> BitPack offers a lifetime free updates. This means you will never pay for any bug-fixes and compatibility upgrades for your theme, ever.</li>
+            <li><span class="fw-semibold">Technical support:</span> As always, our Customer Support team is available 24/7 to answer any questions you might have. We will do our best to get back to you within <span class="fw-semibold">24-48 hours</span>.</li>
+          </ul>
+
+          <p>BitPack Template is built by the team that has customers in the background such us Stanford University, The University of Maryland, University of Victoria and many more Governments, Corporate Agencies. To bring the most modern look of any HTML5 template across all Marketplaces – powered by Bootstrap 4, BitPack sets the new standard with breathtaking design, top-notch support, and incredible featured packed updates that will save your precious time and gives trendy look to all your web projects. On top of that the creators of Bootstrap have closely monitored the ongoing process of the BitPack and helped to achieve an enormous result.</p>
+
+          <!-- Info -->
+          <div class="border-top border-bottom text-center py-7 my-5">
+            <div class="mb-3">
+              <h3>Was this article helpful?</h3>
+            </div>
+
+            <div class="mb-3">
+              <button type="button" class="btn btn-primary my-1 me-sm-2">
+                <i class="bi-hand-thumbs-up me-1"></i> Yes, thanks!
+              </button>
+              <button type="button" class="btn btn-soft-primary my-1">
+                <i class="bi-hand-thumbs-down me-1"></i> Not, really
+              </button>
+            </div>
+
+            <p class="small mb-0">93 out of 132 found this helpful</p>
+          </div>
+          <!-- End Info -->
+
+          <div class="mb-3">
+            <h3>Related articles</h3>
+          </div>
+
+          <!-- List -->
+          <ul class="list-unstyled list-pointer">
+            <li class="list-pointer-item">
+              <a class="link link-secondary" href="../demo-help-desk/article-overview.html">Getting started for workspace creators</a>
+            </li>
+            <li class="list-pointer-item">
+              <a class="link link-secondary" href="../demo-help-desk/article-overview.html">Edit your profile</a>
+            </li>
+            <li class="list-pointer-item">
+              <a class="link link-secondary" href="../demo-help-desk/article-overview.html">View and download invoices</a>
+            </li>
+          </ul>
+          <!-- End List -->
+        </div>
+        <!-- End Card -->
+      </div>
+    </div>
+    <!-- End Card -->
   </main>
   <!-- ========== END MAIN CONTENT ========== -->
 
@@ -851,8 +549,8 @@
         <div class="col-lg-3 mb-7 mb-lg-0">
           <!-- Logo -->
           <div class="mb-5">
-            <a class="navbar-brand" href="./index.html" aria-label="Space">
-              <img class="navbar-brand-logo" src="./assets/svg/logos/logo-white.svg" alt="Image Description">
+            <a class="navbar-brand" href="../index.html" aria-label="Space">
+              <img class="navbar-brand-logo" src="../assets/svg/logos/logo-white.svg" alt="Image Description">
             </a>
           </div>
           <!-- End Logo -->
@@ -976,26 +674,26 @@
               <div class="btn-group">
                 <button type="button" class="btn btn-soft-light btn-xs dropdown-toggle" id="footerSelectLanguage" data-bs-toggle="dropdown" aria-expanded="false" data-bs-dropdown-animation>
                   <span class="d-flex align-items-center">
-                    <img class="avatar avatar-xss avatar-circle me-2" src="./assets/vendor/flag-icon-css/flags/1x1/us.svg" alt="Image description" width="16"/>
+                    <img class="avatar avatar-xss avatar-circle me-2" src="../assets/vendor/flag-icon-css/flags/1x1/us.svg" alt="Image description" width="16"/>
                     <span>English (US)</span>
                   </span>
                 </button>
 
                 <div class="dropdown-menu" aria-labelledby="footerSelectLanguage">
                   <a class="dropdown-item d-flex align-items-center active" href="#">
-                    <img class="avatar avatar-xss avatar-circle me-2" src="./assets/vendor/flag-icon-css/flags/1x1/us.svg" alt="Image description" width="16"/>
+                    <img class="avatar avatar-xss avatar-circle me-2" src="../assets/vendor/flag-icon-css/flags/1x1/us.svg" alt="Image description" width="16"/>
                     <span>English (US)</span>
                   </a>
                   <a class="dropdown-item d-flex align-items-center" href="#">
-                    <img class="avatar avatar-xss avatar-circle me-2" src="./assets/vendor/flag-icon-css/flags/1x1/de.svg" alt="Image description" width="16"/>
+                    <img class="avatar avatar-xss avatar-circle me-2" src="../assets/vendor/flag-icon-css/flags/1x1/de.svg" alt="Image description" width="16"/>
                     <span>Deutsch</span>
                   </a>
                   <a class="dropdown-item d-flex align-items-center" href="#">
-                    <img class="avatar avatar-xss avatar-circle me-2" src="./assets/vendor/flag-icon-css/flags/1x1/es.svg" alt="Image description" width="16"/>
+                    <img class="avatar avatar-xss avatar-circle me-2" src="../assets/vendor/flag-icon-css/flags/1x1/es.svg" alt="Image description" width="16"/>
                     <span>Español</span>
                   </a>
                   <a class="dropdown-item d-flex align-items-center" href="#">
-                    <img class="avatar avatar-xss avatar-circle me-2" src="./assets/vendor/flag-icon-css/flags/1x1/cn.svg" alt="Image description" width="16"/>
+                    <img class="avatar avatar-xss avatar-circle me-2" src="../assets/vendor/flag-icon-css/flags/1x1/cn.svg" alt="Image description" width="16"/>
                     <span>中文 (繁體)</span>
                   </a>
                 </div>
@@ -1019,9 +717,9 @@
   <!-- ========== END FOOTER ========== -->
 
   <!-- ========== SECONDARY CONTENTS ========== -->
-  <!-- Sign Up -->
-  <div class="modal fade" id="signupModal" tabindex="-1" role="dialog" aria-hidden="true">
-    <div class="modal-dialog modal-dialog-centered" role="document">
+  <!-- Log In -->
+  <div class="modal fade" id="loginModal" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-dialog modal-sm modal-dialog-centered" role="document">
       <div class="modal-content">
         <!-- Header -->
         <div class="modal-close">
@@ -1032,57 +730,19 @@
         <!-- Body -->
         <div class="modal-body">
           <!-- Log in -->
-          <div id="signupModalFormLogin" style="display: none; opacity: 0;">
+          <div id="loginModalFormLogin">
             <!-- Heading -->
             <div class="text-center mb-7">
-              <h2>Log in</h2>
-              <p>Don't have an account yet?
-                <a class="js-animation-link link" href="javascript:;" role="button"
-                   data-hs-show-animation-options='{
-                         "targetSelector": "#signupModalFormSignup",
-                         "groupName": "idForm"
-                       }'>Sign up</a>
-              </p>
-            </div>
-            <!-- End Heading -->
-
-            <div class="d-grid gap-2">
-              <a class="btn btn-white btn-lg" href="#">
-                <span class="d-flex justify-content-center align-items-center">
-                  <img class="avatar avatar-xss me-2" src="./assets/svg/brands/google-icon.svg" alt="Image Description">
-                  Log in with Google
-                </span>
-              </a>
-
-              <a class="js-animation-link btn btn-primary btn-lg" href="#"
-                 data-hs-show-animation-options='{
-                       "targetSelector": "#signupModalFormLoginWithEmail",
-                       "groupName": "idForm"
-                     }'>Log in with Email</a>
-            </div>
-          </div>
-          <!-- End Log in -->
-
-          <!-- Log in with Modal -->
-          <div id="signupModalFormLoginWithEmail" style="display: none; opacity: 0;">
-            <!-- Heading -->
-            <div class="text-center mb-7">
-              <h2>Log in</h2>
-              <p>Don't have an account yet?
-                <a class="js-animation-link link" href="javascript:;" role="button"
-                   data-hs-show-animation-options='{
-                         "targetSelector": "#signupModalFormSignup",
-                         "groupName": "idForm"
-                       }'>Sign up</a>
-              </p>
+              <h3 class="modal-title">Log in to BitPack</h3>
+              <p>Login to manage your account</p>
             </div>
             <!-- End Heading -->
 
             <form class="js-validate needs-validation" novalidate>
               <!-- Form -->
               <div class="mb-3">
-                <label class="form-label" for="signupModalFormLoginEmail">Your email</label>
-                <input type="email" class="form-control form-control-lg" name="email" id="signupModalFormLoginEmail" placeholder="email@site.com" aria-label="email@site.com" required>
+                <label class="form-label" for="loginModalFormLoginEmail">Your email</label>
+                <input type="email" class="form-control" name="email" id="loginModalFormLoginEmail" placeholder="email@site.com" aria-label="email@site.com" required>
                 <span class="invalid-feedback">Please enter a valid email address.</span>
               </div>
               <!-- End Form -->
@@ -1090,133 +750,125 @@
               <!-- Form -->
               <div class="mb-3">
                 <div class="d-flex justify-content-between align-items-center">
-                  <label class="form-label" for="signupModalFormLoginPassword">Password</label>
+                  <label class="form-label" for="loginModalFormLoginPassword">Password</label>
 
                   <a class="js-animation-link form-label-link" href="javascript:;"
                      data-hs-show-animation-options='{
-                       "targetSelector": "#signupModalFormResetPassword",
+                       "targetSelector": "#loginModalFormResetPassword",
                        "groupName": "idForm"
                      }'>Forgot Password?</a>
                 </div>
 
-                <input type="password" class="form-control form-control-lg" name="password" id="signupModalFormLoginPassword" placeholder="8+ characters required" aria-label="8+ characters required" required minlength="8">
+                <input type="password" class="form-control form-control-lg" name="password" id="loginModalFormLoginPassword" placeholder="8+ characters required" aria-label="8+ characters required" required minlength="8">
                 <span class="invalid-feedback">Please enter a valid password.</span>
               </div>
               <!-- End Form -->
 
-              <div class="d-grid mb-3">
-                <button type="submit" class="btn btn-primary form-control-lg">Log in</button>
+              <div class="d-grid gap-3 text-center">
+                <button type="submit" class="btn btn-primary btn-lg">Log in</button>
+              
+                <span class="divider-center">OR</span>
+              
+                <button type="submit" class="btn btn-ghost-secondary">
+                  <span class="d-flex justify-content-center align-items-center">
+                    <img class="avatar avatar-xss me-2" src="../assets/svg/brands/google-icon.svg" alt="Image Description">
+                    Log in with Google
+                  </span>
+                </button>
+
+                <p>Don't have an account yet?
+                  <a class="js-animation-link link" href="javascript:;" role="button"
+                     data-hs-show-animation-options='{
+                       "targetSelector": "#loginModalFormSignup",
+                       "groupName": "idForm"
+                     }'>Sign up</a>
+                </p>
               </div>
             </form>
           </div>
-          <!-- End Log in with Modal -->
+          <!-- End Log in -->
 
-          <!-- Sign up -->
-          <div id="signupModalFormSignup">
+          <!-- Log in -->
+          <div id="loginModalFormSignup" style="display: none; opacity: 0;">
             <!-- Heading -->
             <div class="text-center mb-7">
-              <h2>Sign up</h2>
-              <p>Already have an account?
-                <a class="js-animation-link link" href="javascript:;" role="button"
-                   data-hs-show-animation-options='{
-                         "targetSelector": "#signupModalFormLogin",
-                         "groupName": "idForm"
-                       }'>Log in</a>
-              </p>
+              <h3 class="modal-title">Sign up</h3>
+              <p>Fill out the form to get started</p>
             </div>
             <!-- End Heading -->
 
-            <div class="d-grid gap-3">
-              <a class="btn btn-white btn-lg" href="#">
-                <span class="d-flex justify-content-center align-items-center">
-                  <img class="avatar avatar-xss me-2" src="./assets/svg/brands/google-icon.svg" alt="Image Description">
-                  Sign up with Google
-                </span>
-              </a>
-
-              <a class="js-animation-link btn btn-primary btn-lg" href="#"
-                 data-hs-show-animation-options='{
-                       "targetSelector": "#signupModalFormSignupWithEmail",
-                       "groupName": "idForm"
-                     }'>Sign up with Email</a>
-
-              <div class="text-center">
-                <p class="small mb-0">By continuing you agree to our <a href="#">Terms and Conditions</a></p>
-              </div>
-            </div>
-          </div>
-          <!-- End Sign up -->
-
-          <!-- Sign up with Modal -->
-          <div id="signupModalFormSignupWithEmail" style="display: none; opacity: 0;">
-            <!-- Heading -->
-            <div class="text-center mb-7">
-              <h2>Sign up</h2>
-              <p>Already have an account?
-                <a class="js-animation-link link" href="javascript:;" role="button"
-                   data-hs-show-animation-options='{
-                         "targetSelector": "#signupModalFormLogin",
-                         "groupName": "idForm"
-                       }'>Log in</a>
-              </p>
-            </div>
-            <!-- End Heading -->
-
-            <form class="js-validate need-validate" novalidate>
+            <form class="js-validate needs-validation" novalidate>
               <!-- Form -->
               <div class="mb-3">
-                <label class="form-label" for="signupModalFormSignupEmail">Your email</label>
-                <input type="email" class="form-control form-control-lg" name="email" id="signupModalFormSignupEmail" placeholder="email@site.com" aria-label="email@site.com" required>
+                <label class="form-label" for="loginModalFormSignupEmail">Your email</label>
+                <input type="email" class="form-control form-control-lg" name="email" id="loginModalFormSignupEmail" placeholder="email@site.com" aria-label="email@site.com" required>
                 <span class="invalid-feedback">Please enter a valid email address.</span>
               </div>
               <!-- End Form -->
 
               <!-- Form -->
               <div class="mb-3">
-                <label class="form-label" for="signupModalFormSignupPassword">Password</label>
-                <input type="password" class="form-control form-control-lg" name="password" id="signupModalFormSignupPassword" placeholder="8+ characters required" aria-label="8+ characters required" required>
+                <label class="form-label" for="loginModalFormSignupPassword">Password</label>
+                <input type="password" class="form-control form-control-lg" name="password" id="loginModalFormSignupPassword" placeholder="8+ characters required" aria-label="8+ characters required" required>
                 <span class="invalid-feedback">Your password is invalid. Please try again.</span>
               </div>
               <!-- End Form -->
 
               <!-- Form -->
               <div class="mb-3" data-hs-validation-validate-class>
-                <label class="form-label" for="signupModalFormSignupConfirmPassword">Confirm password</label>
-                <input type="password" class="form-control form-control-lg" name="confirmPassword" id="signupModalFormSignupConfirmPassword" placeholder="8+ characters required" aria-label="8+ characters required" required
-                       data-hs-validation-equal-field="#signupModalFormSignupPassword">
+                <label class="form-label" for="loginModalFormSignupConfirmPassword">Confirm password</label>
+                <input type="password" class="form-control form-control-lg" name="confirmPassword" id="loginModalFormSignupConfirmPassword" placeholder="8+ characters required" aria-label="8+ characters required" required
+                       data-hs-validation-equal-field="#loginModalFormSignupPassword">
                 <span class="invalid-feedback">Password does not match the confirm password.</span>
               </div>
               <!-- End Form -->
 
-              <div class="d-grid mb-3">
-                <button type="submit" class="btn btn-primary form-control-lg">Sign up</button>
+              <div class="text-center mb-3">
+                <p class="small mb-0">By continuing you agree to our <a href="#">Terms and Conditions</a></p>
               </div>
 
-              <div class="text-center">
-                <p class="small mb-0">By continuing you agree to our <a href="#">Terms and Conditions</a></p>
+              <div class="d-grid gap-3 text-center">
+                <button type="submit" class="btn btn-primary btn-lg">Sign up</button>
+              
+                <span class="divider-center">OR</span>
+              
+                <button type="submit" class="btn btn-ghost-secondary">
+                  <span class="d-flex justify-content-center align-items-center">
+                    <img class="avatar avatar-xss me-2" src="../assets/svg/brands/google-icon.svg" alt="Image Description">
+                    Sign up with Google
+                  </span>
+                </button>
+
+                <p>Already have an account?
+                  <a class="js-animation-link link" href="javascript:;" role="button"
+                     data-hs-show-animation-options='{
+                       "targetSelector": "#loginModalFormLogin",
+                       "groupName": "idForm"
+                     }'>Log in</a>
+                </p>
               </div>
             </form>
           </div>
-          <!-- End Sign up with Modal -->
+          <!-- End Log in -->
 
           <!-- Reset Password -->
-          <div id="signupModalFormResetPassword" style="display: none; opacity: 0;">
+          <div id="loginModalFormResetPassword" style="display: none; opacity: 0;">
             <!-- Heading -->
             <div class="text-center mb-7">
-              <h2>Forgot password?</h2>
-              <p>Enter the email address you used when you joined and we'll send you instructions to reset your password.</p>
+              <h3 class="modal-title">Forgot password</h3>
+              <p>Instructions will be sent to you</p>
             </div>
-            <!-- En dHeading -->
+            <!-- End Heading -->
 
-            <form class="js-validate need-validate" novalidate>
+            <form class="js-validate needs-validation" novalidate>
+              <!-- Form -->
               <div class="mb-3">
-                <!-- Form -->
                 <div class="d-flex justify-content-between align-items-center">
                   <label class="form-label" for="signupModalFormResetPasswordEmail" tabindex="0">Your email</label>
 
                   <a class="js-animation-link form-label-link" href="javascript:;"
                      data-hs-show-animation-options='{
-                         "targetSelector": "#signupModalFormLogin",
+                         "targetSelector": "#loginModalFormLogin",
                          "groupName": "idForm"
                        }'>
                     <i class="bi-chevron-left small"></i> Back to Log in
@@ -1225,52 +877,21 @@
 
                 <input type="email" class="form-control form-control-lg" name="email" id="signupModalFormResetPasswordEmail" tabindex="1" placeholder="Enter your email address" aria-label="Enter your email address" required>
                 <span class="invalid-feedback">Please enter a valid email address.</span>
-                <!-- End Form -->
               </div>
-            
-              <div class="d-grid">
-                <button type="submit" class="btn btn-primary form-control-lg">Submit</button>
+              <!-- End Form -->
+
+              <div class="d-grid gap-3 text-center">
+                <button type="submit" class="btn btn-primary btn-lg">Submit</button>
               </div>
             </form>
           </div>
           <!-- End Reset Password -->
         </div>
         <!-- End Body -->
-
-        <!-- Footer -->
-        <div class="modal-footer d-block text-center py-sm-5">
-          <small class="text-cap mb-4">Trusted by the world's best teams</small>
-
-          <div class="w-85 mx-auto">
-            <div class="row justify-content-between">
-              <div class="col">
-                <img class="img-fluid" src="./assets/svg/brands/gitlab-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col">
-                <img class="img-fluid" src="./assets/svg/brands/fitbit-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col">
-                <img class="img-fluid" src="./assets/svg/brands/flow-xo-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-
-              <div class="col">
-                <img class="img-fluid" src="./assets/svg/brands/layar-gray.svg" alt="Logo">
-              </div>
-              <!-- End Col -->
-            </div>
-          </div>
-          <!-- End Row -->
-        </div>
-        <!-- End Footer -->
       </div>
     </div>
   </div>
-  
+
   <!-- Go To -->
   <a class="js-go-to go-to position-fixed" href="javascript:;" style="visibility: hidden;"
      data-hs-go-to-options='{
@@ -1292,25 +913,19 @@
   <!-- ========== END SECONDARY CONTENTS ========== -->
 
   <!-- JS Global Compulsory  -->
-  <script src="./assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="../assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
 
   <!-- JS Implementing Plugins -->
-  <script src="./assets/vendor/hs-header/dist/hs-header.min.js"></script>
-  <script src="./assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
-  <script src="./assets/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
-  <script src="./assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
+  <script src="../assets/vendor/hs-mega-menu/dist/hs-mega-menu.min.js"></script>
+  <script src="../assets/vendor/hs-show-animation/dist/hs-show-animation.min.js"></script>
+  <script src="../assets/vendor/hs-go-to/dist/hs-go-to.min.js"></script>
 
   <!-- JS BitPack -->
-  <script src="./assets/js/theme.min.js"></script>
+  <script src="../assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->
   <script>
     (function() {
-      // INITIALIZATION OF HEADER
-      // =======================================================
-      new HSHeader('#header').init()
-
-
       // INITIALIZATION OF MEGA MENU
       // =======================================================
       new HSMegaMenu('.js-mega-menu', {

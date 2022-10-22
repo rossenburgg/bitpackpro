@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Status | Front - Multipurpose Responsive Template</title>
+  <title>Status | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -17,7 +17,7 @@
   <!-- CSS Implementing Plugins -->
   <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
 
-  <!-- CSS Front Template -->
+  <!-- CSS BitPack Template -->
   <link rel="stylesheet" href="./assets/css/theme.min.css">
 </head>
 
@@ -27,7 +27,7 @@
     <div class="container">
       <nav class="navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="./index.html" aria-label="BitPack">
           <img class="navbar-brand-logo" src="./assets/svg/logos/logo.svg" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -113,7 +113,7 @@
               <h5 class="text-danger">Forms, Meetings and Ads cannot be modified</h5>
               
               <div class="mb-4">
-                <p class="mb-1"><span class="fw-semibold">Resolved</span> - The Front app is now loading properly for all users. We've identified and addressed the cause of the issue as a problem with the Forms, Meetings and Ads tools, and the incident has now been fully resolved.</p>
+                <p class="mb-1"><span class="fw-semibold">Resolved</span> - The BitPack app is now loading properly for all users. We've identified and addressed the cause of the issue as a problem with the Forms, Meetings and Ads tools, and the incident has now been fully resolved.</p>
                 <span class="text-muted small">Mar 8, 10:10 EST</span>
               </div>
 
@@ -250,7 +250,7 @@
       <!-- End Col -->
     
       <div class="col-sm-auto">
-        <p class="small mb-0">&copy; Front. 2021 Htmlstream.</p>
+        <p class="small mb-0">&copy; BitPack. 2021 Htmlstream.</p>
       </div>
       <!-- End Col -->
     </div>
@@ -263,7 +263,7 @@
 
   <!-- JS Implementing Plugins -->
 
-  <!-- JS Front -->
+  <!-- JS BitPack -->
   <script src="./assets/js/theme.min.js"></script>
 
   <!-- JS Plugins Init. -->
