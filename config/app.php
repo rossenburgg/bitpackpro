@@ -181,6 +181,7 @@ return [
         App\Providers\SocialstreamServiceProvider::class,
     App\Providers\MenuServiceProvider::class,
     RealRashid\SweetAlert\SweetAlertServiceProvider::class,
+    jeremykenedy\LaravelRoles\RolesServiceProvider::class,
     
 
   ],

@@ -6,7 +6,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
   <!-- Title -->
-  <title>Maintenance Mode | Front - Cryptocurrency trading platform by Alaric Inc</title>
+  <title>Maintenance Mode | BitPack - Cryptocurrency trading platform by Alaric Inc</title>
 
   <!-- Favicon -->
   <link rel="shortcut icon" href="./favicon.ico">
@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
 
   <!-- CSS Implementing Plugins -->
-  <link rel="stylesheet" href="./assets/vendor/bootstrap-icons/font/bootstrap-icons.css">
+  <link rel="stylesheet" href="{{ asset('assets/vendor/bootstrap-icons/font/bootstrap-icons.css')}}">
 
   <!-- CSS Front Template -->
   <link rel="stylesheet" href="{{ asset('assets/css/theme.min.css') }}">
@@ -27,7 +27,7 @@
     <div class="container">
       <nav class="navbar-nav-wrap">
         <!-- Default Logo -->
-        <a class="navbar-brand" href="./index.html" aria-label="Front">
+        <a class="navbar-brand" href="/" aria-label="Front">
           <img class="navbar-brand-logo" src="{{ asset('assets/svg/logos/logo.svg') }}" alt="Logo">
         </a>
         <!-- End Default Logo -->
@@ -71,26 +71,26 @@
           <!-- Socials -->
           <ul class="list-inline mb-0">
             <li class="list-inline-item">
-              <a class="btn btn-soft-secondary btn-xs btn-icon" href="#">
+              <a class="btn btn-soft-secondary btn-xs btn-icon" href="https://facebook.com/bitpackgh">
                 <i class="bi-facebook"></i>
               </a>
             </li>
           
             <li class="list-inline-item">
-              <a class="btn btn-soft-secondary btn-xs btn-icon" href="#">
-                <i class="bi-google"></i>
+              <a class="btn btn-soft-secondary btn-xs btn-icon" href="https://whatsapp.com/bitpackgh">
+                <i class="bi-whatsapp"></i>
               </a>
             </li>
           
             <li class="list-inline-item">
-              <a class="btn btn-soft-secondary btn-xs btn-icon" href="#">
+              <a class="btn btn-soft-secondary btn-xs btn-icon" href="https://twitter.com/bitpackgh">
                 <i class="bi-twitter"></i>
               </a>
             </li>
           
             <li class="list-inline-item">
-              <a class="btn btn-soft-secondary btn-xs btn-icon" href="#">
-                <i class="bi-github"></i>
+              <a class="btn btn-soft-secondary btn-xs btn-icon" href="https://instagram.com/bitpackgh">
+                <i class="bi-instagram"></i>
               </a>
             </li>
           </ul>
@@ -102,9 +102,9 @@
   <!-- ========== END FOOTER ========== -->
 
   <!-- JS Global Compulsory  -->
-  <script src="./assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="{{ asset('assets/vendor/bootstrap/dist/js/bootstrap.bundle.min.js')}}"></script>
 
   <!-- JS Front -->
-  <script src="./assets/js/theme.min.js"></script>
+  <script src=".{{ asset('assets/js/theme.min.js')}}"></script>
 </body>
 </html>
